@@ -1,5 +1,23 @@
 ---
+logo.png: logo-c0b6cbeb44e424a54cbe3c9f81e109aa.png
 rails.png: rails-a221ca6fefd690d57768c46f08d8a48b.png
+blueprint/plugins/buttons/icons/cross.png: blueprint/plugins/buttons/icons/cross-537432481faa7b4a3bf52d795f75acb9.png
+blueprint/plugins/buttons/icons/key.png: blueprint/plugins/buttons/icons/key-06cd16942481b7a52ffe44deb2efa1bc.png
+blueprint/plugins/buttons/icons/tick.png: blueprint/plugins/buttons/icons/tick-1794019efb566dfd1b1c3388c0bde6bf.png
+blueprint/plugins/buttons/readme.txt: blueprint/plugins/buttons/readme-a6e5f46c15bd716f6d691ddea3c11a10.txt
+blueprint/plugins/fancy-type/readme.txt: blueprint/plugins/fancy-type/readme-d48add9566a7e95acd53009dbd253c3e.txt
+blueprint/plugins/link-icons/icons/doc.png: blueprint/plugins/link-icons/icons/doc-28cabf2eb9af4de602a35d2638d65eff.png
+blueprint/plugins/link-icons/icons/email.png: blueprint/plugins/link-icons/icons/email-069eaf31b6462b19c9b2ae42242b05b4.png
+blueprint/plugins/link-icons/icons/external.png: blueprint/plugins/link-icons/icons/external-4461d85e287d63c3575a46b179343d7b.png
+blueprint/plugins/link-icons/icons/feed.png: blueprint/plugins/link-icons/icons/feed-1c655fe345914a6731b6cd7d500b9cf8.png
+blueprint/plugins/link-icons/icons/im.png: blueprint/plugins/link-icons/icons/im-bcebe4ed45cf0c5cdde9ceefe0ba0004.png
+blueprint/plugins/link-icons/icons/lock.png: blueprint/plugins/link-icons/icons/lock-f81a2591f74bd7f81a692eea8a4406c3.png
+blueprint/plugins/link-icons/icons/pdf.png: blueprint/plugins/link-icons/icons/pdf-dccc18b00defaefd14df208c9b1578c8.png
+blueprint/plugins/link-icons/icons/visited.png: blueprint/plugins/link-icons/icons/visited-d63993bd1318edfae62424682eebc04b.png
+blueprint/plugins/link-icons/icons/xls.png: blueprint/plugins/link-icons/icons/xls-d23de0984fde34b4acdee8e02e1b6768.png
+blueprint/plugins/link-icons/readme.txt: blueprint/plugins/link-icons/readme-ef44088426194f15b6b3c83b0acefb5f.txt
+blueprint/plugins/rtl/readme.txt: blueprint/plugins/rtl/readme-e7cd5996b6909c10b631db0ae2c02aea.txt
+blueprint/src/grid.png: blueprint/src/grid-bda7b76b3f7c3a059381b6a0e2a8d8fb.png
 jquery-ui.min.js: jquery-ui.min-0e8a11c7e970b57b4bf5c449cb14480d.js
 jquery.min.js: jquery.min-b11f0e0c6ff2b15efcb77ee68ca72f6d.js
 application.js: application-598b6d24c53e7786ac521360ae17106d.js
